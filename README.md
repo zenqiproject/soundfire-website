@@ -23,7 +23,7 @@
 
 **Soundfire** *is a* **simple**, **yet powerful** **music bot**. *It was for music lovers out there.*
 Soundfire is now currently in **beta**. We want to add some unique useful features and Soundfire was actively
-developed and maintained by [Zenqi](https://github.com/znqi).
+developed and maintained by [Zenqi](https://github.com/znqi). You can invite the bot [here](https://discord.com/api/oauth2/authorize?client_id=831358851688300584&permissions=1379200080&scope=bot)
 
 ## Usage
 
@@ -41,6 +41,19 @@ developed and maintained by [Zenqi](https://github.com/znqi).
 `info` - Show information about the bot and update info<br>
 
 ## Features
+
+- Play music
+- Stop music (Pause and Resume)
+- Lyrics (might add soon! I'm working on it)
+- Buttons using emojis (might add soon! I'm working on it)
+
+**Major features to be implemented**:<br>
+     - Voice recognition (i don't know if this would work, but I'll give it a try)
+
+## Release Note
+
+Soundfire v1.0 (04/13/2021). Release note: The first release of the bot.
+
 
 ## Author
 |![](https://github.com/znqi.png?size=50)| 
